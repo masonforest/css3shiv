@@ -1,0 +1,21 @@
+#rounded{
+	background-color: #aaa;
+	border-radius:5px;
+}
+#gradient{
+-webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    color-stop(0.06, rgb(79,102,2)),
+    color-stop(0.53, rgb(111,133,28)),
+    color-stop(0.77, rgb(145,160,56))
+)
+-moz-linear-gradient(
+    center bottom,
+    rgb(79,102,2) 6%,
+    rgb(111,133,28) 53%,
+    rgb(145,160,56) 77%
+)
+
+}
