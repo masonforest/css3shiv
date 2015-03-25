@@ -1,0 +1,1 @@
+Css3shiv mimics css3 behaviors in older browsers that do not support them. It leverages the JSS library by Andy Kent to parse css files and renders css3 styles using javascript.
